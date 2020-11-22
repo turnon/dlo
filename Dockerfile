@@ -1,3 +1,4 @@
 FROM alpine:3.12.1
 
-ADD https://mirrors.tuna.tsinghua.edu.cn/ubuntu-cdimage/xubuntu/releases/18.04.5/release/xubuntu-18.04.5-desktop-amd64.iso /downed/
+ADD https://github.com/2dust/v2rayN/releases/download/3.27/v2rayN-Core.zip /downed/
+ADD https://github.com/2dust/v2rayN/releases/download/3.27/v2rayN.zip /downed/
